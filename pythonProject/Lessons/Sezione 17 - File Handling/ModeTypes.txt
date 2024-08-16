@@ -1,0 +1,7 @@
+Hello
+How are you
+Do you know Python
+I am learning Python
+It is a very easy language
+I am practicing every day
+Goodbye
